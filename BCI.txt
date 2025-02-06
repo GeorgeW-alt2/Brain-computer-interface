@@ -79,7 +79,7 @@ Testing should be conducted on 50 healthy volunteers (25M/25F, ages 20-65) follo
 3. Environmental Testing
    - Temperature variation (20-40°C)
    - Humidity exposure (30-90% RH)
-   - Motion artifact assessment
+   - Noise artifact assessment
 
 ## 4. Results
 
