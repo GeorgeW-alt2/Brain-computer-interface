@@ -1,0 +1,1 @@
+A simple patch on the skin for an electronically readable consumable that reacts to neurological information, i.e mood. For a computer brain interface.
